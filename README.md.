@@ -1,0 +1,33 @@
+Java FSD Mini Hackathon
+
+Team Details
+
+Team Name: Spartans
+Team Number: 12
+Domain: Java Full Stack Development (Java FSD)
+
+Selected Problem Statements
+
+Problem ID: 19
+
+Title: Product Batch Expiry Evaluator
+
+Intent / Focus:
+Date delta comparison processing batch yeartags against hardcoded currents.
+
+Problem ID: 27
+
+Title: E-Commerce Cart Checkout Counter
+
+Intent / Focus:
+Appends structural price integers to accumulate net bulk transaction volumes.
+
+Team Members
+
+KM Charan Tej
+M Swaroopa
+P Deepika
+S Pranav
+Repository Purpose
+
+This repository contains the source code and implementation of the selected problem statements for the Java FSD Mini Hackathon.
